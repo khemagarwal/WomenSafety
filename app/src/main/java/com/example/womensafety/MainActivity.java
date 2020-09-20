@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
     //listview object
     ListView listView;
 
-    //the hero list where we will store all the hero objects after parsing json
+    // hero list where we will store all the hero objects after parsing json
     List<Hero> heroList;
 
     @Override
